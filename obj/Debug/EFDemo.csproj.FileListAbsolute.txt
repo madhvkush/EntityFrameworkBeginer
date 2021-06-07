@@ -1,0 +1,12 @@
+D:\WorkSpace\EFDemo\bin\Debug\EFDemo.exe.config
+D:\WorkSpace\EFDemo\bin\Debug\EFDemo.exe
+D:\WorkSpace\EFDemo\bin\Debug\EFDemo.pdb
+D:\WorkSpace\EFDemo\bin\Debug\EntityFramework.dll
+D:\WorkSpace\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\EFDemo\bin\Debug\EntityFramework.xml
+D:\WorkSpace\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\EFDemo\obj\Debug\EFDemo.csprojAssemblyReference.cache
+D:\WorkSpace\EFDemo\obj\Debug\EFDemo.csproj.CoreCompileInputs.cache
+D:\WorkSpace\EFDemo\obj\Debug\EFDemo.csproj.CopyComplete
+D:\WorkSpace\EFDemo\obj\Debug\EFDemo.exe
+D:\WorkSpace\EFDemo\obj\Debug\EFDemo.pdb
